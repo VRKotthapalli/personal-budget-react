@@ -1,0 +1,36 @@
+{
+    "myBudget": [
+        {
+            "title": "Rent",
+            "budget": 310            
+        },
+        {
+            "title": "Eat out",
+            "budget": 60
+        },
+        {
+            "title": "Grocery",
+            "budget": 160
+        },
+        {
+            "title": "Utilities",
+            "budget": 80
+        },
+        {
+            "title": "Wifi",
+            "budget": 50
+        },
+        {
+            "title": "Vacation",
+            "budget": 100
+        },
+        {
+            "title": "Shopping",
+            "budget": 85
+        },
+        {
+            "title": "T-Mobile",
+            "budget": 40
+        }
+    ]
+}
